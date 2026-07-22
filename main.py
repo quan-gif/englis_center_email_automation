@@ -2,6 +2,8 @@ import os
 import resend
 from dotenv import load_dotenv
 load_dotenv()
+print("API_KEY:", os.getenv("RESEND_API_KEY"))
+print("Current directory",os.getcwd())
 API_KEY = os.getenv("RESEND_API_KEY")
 resend.api_key = os.getenv("RESEND_API_KEY")
 import pandas as pd
@@ -61,17 +63,34 @@ def generate_email(row):
 for index,rows in df.iterrows():
     print (generate_email(rows))
     print('=' * 60)
-parents = {
-    "from":'onborading@resend.dev',
-    'to':'mquan159357@gmail.com',
+def build_email_payload(row):
+   return  {
+    "from":'onboarding@resend.dev',
+    'to':row['Parent_Email'],
+    'subject':f'Monthly english report: {row['First_Name']} {row['Last_Name']} ',
+    'html':generate_email(row)
+    }
+def build_email_payload(row):
+   return  {
+    "from":'onboarding@resend.dev',
+    'to':row['Parent_Email'],
     'subject':'My first automation ',
-    'html':"""
-    <h1>Hello</h1>
-    <p>This email is  sent automatically by python and resend</p>
-    """
-}
-email = resend.Emails.send(parents)
-print(email)
+    'html':generate_email(row)
+    }
+yes = 0
+no = 0
+for index, row in df.iterrows():
+   
+    try:
+      payload = build_email_payload( row)
+      email = resend.Emails.send(payload)
+      print(f"sent report to {row['Parent_Email']}")
+      yes += 1
+    except Exception as e:
+        print(f"Failed to send report to {row['Parent_Email']} because: {e}")
+        no += 1
 
-
-
+print(f"""
+total email sended: {yes} emails,
+total emails failed to send: {no} emails,
+""")

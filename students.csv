@@ -1,46 +1,46 @@
 Student_ID,First_Name,Last_Name,Gender,Age,Class,Listening,Reading,Writing,Speaking,Attendance,Homework_Completion,Parent_Name,Parent_Email,Parent_Phone,Tuition_Status,Enrollment_Date
-EC1001,Quang,Le,Male,16,Flyers,83,78,74,73,94,81,Le Kim,le.kim30@gmail.com,0374752553,Overdue,2025-11-30
-EC1002,Hieu,Huynh,Male,16,IELTS Foundation,71,67,66,69,70,67,Huynh Quoc,huynh.quoc52@outlook.com,+84933953767,Paid,2024-09-09
-EC1003,Lan,Ngo,Female,14,Flyers,54,41,40,42,56,61,Ngo Tuan,ngo.tuan77@,0379784801,Overdue,2026-02-07
-EC1004,Hanh,Bui,Female,9,Flyers,65,73,81,70,78,65,Bui Diem,bui.diem78@yahoo.com,+84965288095,Paid,2025-01-06
-EC1005,Thao,Tran,Female,11,PET,69,56,58,58,77,80,Tran Hung,tran.hung68@hotmail.com,+84988346578,Paid,2024-08-18
-EC1006,Dat,Nguyen,Male,16,Movers,94,93,99,94,86,80,Nguyen Cong,nguyen.cong31@outlook.com,+84827382997,Pending,2026-04-06
-EC1007,Ngoc,Pham,Female,9,IELTS Foundation,78,79,66,68,76,69,Pham Kim,pham.kim32@yahoo.com,+84988726247,Paid,2025-03-29
-EC1008,Khang,Nguyen,Male,9,Movers,72,63,69,58,80,71,Nguyen Tuan,nguyen.tuan34@hotmail.com,0346872343,Overdue,2026-01-23
-EC1009,Dat,Tran,Male,8,PET,83,72,68,83,82,81,Tran Trong,tran.trong9@yahoo.com,+84371939909,Overdue,2025-08-20
-EC1010,Uyen,Phan,Female,13,Movers,91,96,92,84,89,86,Phan Minh,phan.minh69@yahoo.com,+84764251354,Overdue,2025-12-21
-EC1011,Phuong,Nguyen,Female,16,Flyers,77,81,76,76,76,82,Nguyen Hoa,nguyen.hoa78@yahoo.com,+84835348740,Pending,2026-04-29
-EC1012,Anh,Nguyen,Female,13,Movers,95,82,85,84,87,97,Nguyen Quoc,nguyen.quoc75@yahoo.com,0382045053,Overdue,2024-04-15
-EC1013,Kim,Ngo,Female,10,Movers,40,42,47,50,65,51,Ngo Ngoc,ngo.ngoc90@gmail.com,0370733754,Paid,2024-08-16
-EC1014,Tam,Phan,Male,14,Flyers,68,71,76,72,77,88,Phan Thi,phan.thi15@outlook.com,0979401965,Pending,2025-03-22
-EC1015,Quang,Phan,Male,12,Starters,90,80,85,87,79,60,Phan Xuan,phan.xuan41@gmail.com,0844846564,Paid,2025-03-06
-EC1016,Tien,Huynh,Female,12,KET,78,75,82,79,72,66,Huynh Thu,huynh.thu66@hotmail.com,0882148951,Paid,2025-11-19
-EC1017,Thao,Phan,Female,10,Starters,55,67,66,59,78,72,Phan Thu,phan.thu19@gmail.com,0851632870,Paid,2025-04-12
-EC1018,Thinh,Bui,Male,15,PET,62,53,63,62,67,55,Bui Diem,bui.diem63@yahoo.com,0337143455,Paid,2024-05-21
-EC1019,Phuc,Ho,Male,10,IELTS Foundation,51,48,52,51,55,51,Ho Huong,ho.huong99@gmail.com,0859670546,Pending,2025-07-05
-EC1020,Vinh,Vu,Male,12,KET,77,79,72,81,67,71,Vu Tuan,vu.tuan76@gmail.com,+84936272046,Pending,2024-11-30
-EC1021,My,Vo,Female,14,Flyers,55,65,61,56,90,50,Vo Duc,vo.duc26@gmail.com,+84792327193,Pending,2026-02-24
-EC1022,Mai,Pham,Female,10,Flyers,64,67,67,61,84,59,Pham Minh,pham.minh90@outlook.com,0829190586,Paid,2025-06-02
-EC1023,Linh,Ngo,Female,15,Starters,79,69,78,70,84,80,Ngo Xuan,ngo.xuan69@hotmail.com,0396945314,Paid,2026-02-07
-EC1024,Lan,Ho,Female,13,Starters,82,73,78,75,80,59,Ho Diem,ho.diem2@yahoo.com,+84933678377,Paid,2024-04-05
-EC1025,Thao,Ho,Female,11,Flyers,88,89,84,86,91,66,Ho Mai,ho.mai35@outlook.com,+84333135182,Overdue,2025-05-10
-EC1026,Lan,Dang,Female,9,Movers,46,50,41,45,61,46,Dang Cong,dang.cong38@yahoo.com,+84817109477,Paid,2024-02-22
-EC1027,Thu,Pham,Female,9,KET,90,93,93,98,85,96,Pham Cong,pham.cong98@hotmail.com,+84799938677,Overdue,2025-03-15
-EC1028,Lan,Tran,Female,9,Movers,74,77,79,77,79,59,Tran Van,tran.van53@hotmail.com,0839740344,Pending,2024-03-13
-EC1029,Kien,Phan,Male,14,Starters,73,77,73,71,72,72,Phan Xuan,phan.xuan96@outlook.com,+84391746488,Paid,2025-09-04
-EC1030,Huy,Bui,Male,12,Starters,40,42,40,40,64,64,Bui Hoa,bui.hoa24@,+84937565512,Overdue,2025-05-22
-EC1031,Tien,Ho,Female,16,Starters,54,56,49,58,60,45,Ho Huong,ho.huong7@yahoo.com,0765977034,Pending,2025-03-24
-EC1032,Trang,Nguyen,Female,11,IELTS Foundation,40,50,40,44,60,59,Nguyen Thanh,nguyen.thanh64@outlook.com,+84764677378,Paid,2025-09-05
-EC1033,Bao,Vo,Male,14,Flyers,57,57,63,52,65,43,Vo Lan,vo.lan43@hotmail.com,+84395339636,Overdue,2025-04-29
-EC1034,My,Hoang,Female,15,Starters,88,81,92,81,99,100,Hoang Thanh,hoang.thanh53@yahoo.com,0937459615,Overdue,2025-01-24
-EC1035,Hanh,Ly,Female,16,Starters,80,78,73,84,68,67,Ly Phuoc,ly.phuoc22@outlook.com,+84900504556,Overdue,2025-02-25
-EC1036,Nam,Huynh,Male,9,PET,100,90,93,100,100,86,Huynh Hoa,huynh.hoa86@gmail.com,0887482175,Pending,2025-10-16
-EC1037,Uyen,Duong,Female,12,Movers,71,76,75,73,84,53,Duong Hoa,duong.hoa2@gmail.com,12345,Overdue,2024-04-09
-EC1038,Long,Duong,Male,8,PET,87,94,95,98,96,82,Duong Cong,duong.cong47@outlook.com,0892474517,Paid,2026-02-11
-EC1039,Tam,Ho,Male,16,Flyers,76,84,79,90,100,97,Ho Xuan,ho.xuan49@outlook.com,+84943709859,Paid,2025-10-12
-EC1040,Yen,Ngo,Female,9,Movers,68,56,56,60,74,61,Ngo Mai,ngo.mai48@hotmail.com,+84782617964,Pending,2024-08-10
-EC1041,Quynh,Vu,Female,13,Starters,84,74,85,81,79,68,Vu Kim,vu.kim85@yahoo.com,+84819005329,Overdue,2024-07-31
-EC1042,Phuc,Bui,Male,10,PET,56,56,60,57,74,87,Bui Thanh,bui.thanh2@outlook.com,+84883950240,Pending,2025-06-22
-EC1043,Bao,Ly,Male,15,Flyers,100,100,97,91,100,86,Ly Mai,ly.mai83@gmail.com,0917661771,Pending,2025-09-14
-EC1044,Bao,Hoang,Male,12,PET,100,100,100,100,99,94,Hoang Kim,hoang.kim90@gmail.com,0818367365,Pending,2025-03-01
-EC1045,Dat,Ngo,Male,13,IELTS Foundation,55,42,42,42,62,45,Ngo Quoc,ngo.quoc17@gmail.com,0788851656,Overdue,2024-02-22
+EC1001,Quang,Le,Male,16,Flyers,83,78,74,73,94,81,Le Kim,mquan159357@gmail.com,0374752553,Overdue,11/30/2025
+EC1002,Hieu,Huynh,Male,16,IELTS Foundation,71,67,66,69,70,67,Huynh Quoc,qquan159357@gmail.com,84933953767,Paid,9/9/2024
+EC1003,Lan,Ngo,Female,14,Flyers,54,41,40,42,56,61,Ngo Tuan,tuvinhquy00@gmail.com,0379784801,Overdue,2/7/2026
+EC1004,Hanh,Bui,Female,9,Flyers,65,73,81,70,78,65,Bui Diem,bui.diem78@yahoo.com,84965288095,Paid,1/6/2025
+EC1005,Thao,Tran,Female,11,PET,69,56,58,58,77,80,Tran Hung,tran.hung68@hotmail.com,84988346578,Paid,8/18/2024
+EC1006,Dat,Nguyen,Male,16,Movers,94,93,99,94,86,80,Nguyen Cong,nguyen.cong31@outlook.com,84827382997,Pending,4/6/2026
+EC1007,Ngoc,Pham,Female,9,IELTS Foundation,78,79,66,68,76,69,Pham Kim,pham.kim32@yahoo.com,84988726247,Paid,3/29/2025
+EC1008,Khang,Nguyen,Male,9,Movers,72,63,69,58,80,71,Nguyen Tuan,nguyen.tuan34@hotmail.com,0346872343,Overdue,1/23/2026
+EC1009,Dat,Tran,Male,8,PET,83,72,68,83,82,81,Tran Trong,tran.trong9@yahoo.com,84371939909,Overdue,8/20/2025
+EC1010,Uyen,Phan,Female,13,Movers,91,96,92,84,89,86,Phan Minh,phan.minh69@yahoo.com,84764251354,Overdue,12/21/2025
+EC1011,Phuong,Nguyen,Female,16,Flyers,77,81,76,76,76,82,Nguyen Hoa,nguyen.hoa78@yahoo.com,84835348740,Pending,4/29/2026
+EC1012,Anh,Nguyen,Female,13,Movers,95,82,85,84,87,97,Nguyen Quoc,nguyen.quoc75@yahoo.com,0382045053,Overdue,4/15/2024
+EC1013,Kim,Ngo,Female,10,Movers,40,42,47,50,65,51,Ngo Ngoc,ngo.ngoc90@gmail.com,0370733754,Paid,8/16/2024
+EC1014,Tam,Phan,Male,14,Flyers,68,71,76,72,77,88,Phan Thi,phan.thi15@outlook.com,0979401965,Pending,3/22/2025
+EC1015,Quang,Phan,Male,12,Starters,90,80,85,87,79,60,Phan Xuan,phan.xuan41@gmail.com,0844846564,Paid,3/6/2025
+EC1016,Tien,Huynh,Female,12,KET,78,75,82,79,72,66,Huynh Thu,huynh.thu66@hotmail.com,0882148951,Paid,11/19/2025
+EC1017,Thao,Phan,Female,10,Starters,55,67,66,59,78,72,Phan Thu,phan.thu19@gmail.com,0851632870,Paid,4/12/2025
+EC1018,Thinh,Bui,Male,15,PET,62,53,63,62,67,55,Bui Diem,bui.diem63@yahoo.com,0337143455,Paid,5/21/2024
+EC1019,Phuc,Ho,Male,10,IELTS Foundation,51,48,52,51,55,51,Ho Huong,ho.huong99@gmail.com,0859670546,Pending,7/5/2025
+EC1020,Vinh,Vu,Male,12,KET,77,79,72,81,67,71,Vu Tuan,vu.tuan76@gmail.com,84936272046,Pending,11/30/2024
+EC1021,My,Vo,Female,14,Flyers,55,65,61,56,90,50,Vo Duc,vo.duc26@gmail.com,84792327193,Pending,2/24/2026
+EC1022,Mai,Pham,Female,10,Flyers,64,67,67,61,84,59,Pham Minh,pham.minh90@outlook.com,0829190586,Paid,6/2/2025
+EC1023,Linh,Ngo,Female,15,Starters,79,69,78,70,84,80,Ngo Xuan,ngo.xuan69@hotmail.com,0396945314,Paid,2/7/2026
+EC1024,Lan,Ho,Female,13,Starters,82,73,78,75,80,59,Ho Diem,ho.diem2@yahoo.com,84933678377,Paid,4/5/2024
+EC1025,Thao,Ho,Female,11,Flyers,88,89,84,86,91,66,Ho Mai,ho.mai35@outlook.com,84333135182,Overdue,5/10/2025
+EC1026,Lan,Dang,Female,9,Movers,46,50,41,45,61,46,Dang Cong,dang.cong38@yahoo.com,84817109477,Paid,2/22/2024
+EC1027,Thu,Pham,Female,9,KET,90,93,93,98,85,96,Pham Cong,pham.cong98@hotmail.com,84799938677,Overdue,3/15/2025
+EC1028,Lan,Tran,Female,9,Movers,74,77,79,77,79,59,Tran Van,tran.van53@hotmail.com,0839740344,Pending,3/13/2024
+EC1029,Kien,Phan,Male,14,Starters,73,77,73,71,72,72,Phan Xuan,phan.xuan96@outlook.com,84391746488,Paid,9/4/2025
+EC1030,Huy,Bui,Male,12,Starters,40,42,40,40,64,64,Bui Hoa,bui.hoa24@,84937565512,Overdue,5/22/2025
+EC1031,Tien,Ho,Female,16,Starters,54,56,49,58,60,45,Ho Huong,ho.huong7@yahoo.com,0765977034,Pending,3/24/2025
+EC1032,Trang,Nguyen,Female,11,IELTS Foundation,40,50,40,44,60,59,Nguyen Thanh,nguyen.thanh64@outlook.com,84764677378,Paid,9/5/2025
+EC1033,Bao,Vo,Male,14,Flyers,57,57,63,52,65,43,Vo Lan,vo.lan43@hotmail.com,84395339636,Overdue,4/29/2025
+EC1034,My,Hoang,Female,15,Starters,88,81,92,81,99,100,Hoang Thanh,hoang.thanh53@yahoo.com,0937459615,Overdue,1/24/2025
+EC1035,Hanh,Ly,Female,16,Starters,80,78,73,84,68,67,Ly Phuoc,ly.phuoc22@outlook.com,84900504556,Overdue,2/25/2025
+EC1036,Nam,Huynh,Male,9,PET,100,90,93,100,100,86,Huynh Hoa,huynh.hoa86@gmail.com,0887482175,Pending,10/16/2025
+EC1037,Uyen,Duong,Female,12,Movers,71,76,75,73,84,53,Duong Hoa,duong.hoa2@gmail.com,12345,Overdue,4/9/2024
+EC1038,Long,Duong,Male,8,PET,87,94,95,98,96,82,Duong Cong,duong.cong47@outlook.com,0892474517,Paid,2/11/2026
+EC1039,Tam,Ho,Male,16,Flyers,76,84,79,90,100,97,Ho Xuan,ho.xuan49@outlook.com,84943709859,Paid,10/12/2025
+EC1040,Yen,Ngo,Female,9,Movers,68,56,56,60,74,61,Ngo Mai,ngo.mai48@hotmail.com,84782617964,Pending,8/10/2024
+EC1041,Quynh,Vu,Female,13,Starters,84,74,85,81,79,68,Vu Kim,vu.kim85@yahoo.com,84819005329,Overdue,7/31/2024
+EC1042,Phuc,Bui,Male,10,PET,56,56,60,57,74,87,Bui Thanh,bui.thanh2@outlook.com,84883950240,Pending,6/22/2025
+EC1043,Bao,Ly,Male,15,Flyers,100,100,97,91,100,86,Ly Mai,ly.mai83@gmail.com,0917661771,Pending,9/14/2025
+EC1044,Bao,Hoang,Male,12,PET,100,100,100,100,99,94,Hoang Kim,hoang.kim90@gmail.com,0818367365,Pending,3/1/2025
+EC1045,Dat,Ngo,Male,13,IELTS Foundation,55,42,42,42,62,45,Ngo Quoc,ngo.quoc17@gmail.com,0788851656,Overdue,2/22/2024
